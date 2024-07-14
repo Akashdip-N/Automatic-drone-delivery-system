@@ -12,7 +12,6 @@ To run this code, perform the following commands in the terminal:
 
 ```bash
 $ conda create --name myenv python=3.9.19
-$ conda create --name myenv python
 $ conda activate myenv
 $ pip install -r requirements.txt
 ```
