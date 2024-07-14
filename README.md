@@ -19,10 +19,12 @@ $ conda activate myenv
 $ pip install -r requirements.txt
 ```
 
-# Run the code
-* Open the jupyter notebook
-* Open the file `Linear Programming.ipynb`
-* Run the cells
+# To execute the code
+
+To execute the code, follow the steps below:
+  * Open the jupyter notebook
+  * Open the file `Linear Programming.ipynb`
+  * Run the cells
 
 # Output
 The output of the code is the optimal solution of the linear programming problem.
