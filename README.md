@@ -14,9 +14,9 @@ To run this code you need to have the following things installed on your compute
   * [Juypyter notebook](https://jupyter.org/install)
 
 ```bash
-$ conda create --name myenv python=3.9.19
-$ conda activate myenv
-$ pip install -r requirements.txt
+conda create --name myenv python=3.9.19
+conda activate myenv
+pip install -r requirements.txt
 ```
 
 # Run the code
