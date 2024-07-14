@@ -8,7 +8,7 @@ Module name:- Artificial Intelligence and Decision Making
 Course:- Masters in Artificial Intelligence, Jan 2024
 
 # Installation and working of the code
-To run this code you need to have the following things installed on your computer:
+To run this code you need to have the following installed on your computer:
   * [Python](https://www.python.org/downloads/)
   * [Anaconda Navigator](https://www.anaconda.com/products/distribution)
   * [Juypyter notebook](https://jupyter.org/install)
