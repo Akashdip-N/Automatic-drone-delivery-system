@@ -9,12 +9,20 @@ Course:- Masters in Artificial Intelligence, Jan 2024
 
 # Installation and working of the code
 To run this code you need to have the following things installed on your computer:
-  * Anaconda Navigator
-  [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
-  * Juypyter notebook
+  * [Python](https://www.python.org/downloads/)
+  * [Anaconda Navigator](https://www.anaconda.com/products/distribution)
+  * [Juypyter notebook](https://jupyter.org/install)
 
 ```bash
 $ conda create --name myenv python=3.9.19
 $ conda activate myenv
 $ pip install -r requirements.txt
 ```
+
+# Run the code
+* Open the jupyter notebook
+* Open the file `code.ipynb`
+* Run the cells
+
+# Output
+The output of the code will be the accuracy of the model.
