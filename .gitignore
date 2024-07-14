@@ -1,9 +1,5 @@
 # The files in this path will be ignored
 
-__pycache__
-.idea
-bin
-lib
 .vscode
 *.DS_Store
 *.ipynb_checkpoints
